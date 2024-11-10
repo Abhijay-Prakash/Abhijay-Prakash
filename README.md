@@ -13,9 +13,12 @@ I work primarily with:
 - **Architecture:** MVC (Model-View-Controller) design pattern
 
 🚀 **What I'm Working On**
+
+
 I’m currently building applications that integrate well-crafted front-end experiences with optimized back-end functionality. My projects reflect a drive to learn, iterate, and deliver valuable user-centric applications. 
 
 🌱 **What I’m Learning**
+
 Continuously enhancing my knowledge in:
 - Advanced JavaScript and React ecosystem
 - Database management and optimization
