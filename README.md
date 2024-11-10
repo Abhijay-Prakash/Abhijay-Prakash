@@ -1,6 +1,8 @@
 # Hi there! 👋 I'm Abhijay Prakash
 
 🎓 **About Me**
+
+
 I'm a Computer Science student passionate about full stack development and project-based learning. My journey as a developer centers around creating robust applications with a strong focus on user experience, efficiency, and scalability. 
 
 💻 **Tech Stack**
